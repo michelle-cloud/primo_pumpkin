@@ -27,9 +27,11 @@ const siteProps = {
   name: "Martin Albrecht and Michelle Eng",
   title: "Vibrant Life Media",
   email: "VibrantLifeMedia22@gmail.com",
-  gitHub: "microsoft",
+  github: "",
   instagram: "https://www.instagram.com/vibrant_life_media/",
-  facebook: "satyanadella",
+  linkedIn: "",
+  medium: "",
+  twitter:"",
   youtube: "https://www.youtube.com/@vibrantlifemedia1053",
 };
 

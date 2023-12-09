@@ -36,7 +36,8 @@ const skillsList = [
   "Promotional content",
   "Music videos",
   "Sporting events",
-  "All tailored to your specific needs and preferences",
+  "Drone footage",
+  "And more!",
   "We are here to capture your moments and make them last a lifetime",
 ];
 

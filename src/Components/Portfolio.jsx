@@ -40,7 +40,7 @@ const projectList = [
     title: "Snowflake Charity Ball",
     description:
       "All funds raised by kindhearted.com.au went to Perth Children's Hospital Foundation Wal-yan Respiratory Research Centre.",
-    url: "<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fvibrantlifemedia%2Fvideos%2F2235149686672326%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>",
+    url: "https://youtu.be/RMAoo7aG_TI?si=z4qVGYBR-BTi2Le9",
   },
   {
     title: "Wedding reception short teaser",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://www.facebook.com/1040865767/videos/740992227468922/",
   },
   {
-    title: "Placeholder",
+    title: "Wedding video highlights",
     description:
-      "imagine that there is some lorum ipsum text here",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "7-minute edit of a wedding ceremony and reception.",
+    url: "https://youtu.be/qPKjzOpsYX8?si=Lz8GTjKHFmBXiVtS",
   },
 ];
 
