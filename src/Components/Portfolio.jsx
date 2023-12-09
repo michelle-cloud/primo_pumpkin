@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Silent Night Music Video",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Rachael Coltrona is joined by Joondalup Symphony Orchestra for a live filming at Crank recording studio. ",
+    url: "https://youtu.be/-nbhsqyslpI?si=X_HQy_Pmvi7nWdxn",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Snowflake Charity Ball",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "All funds raised by kindhearted.com.au went to Perth Children's Hospital Foundation Wal-yan Respiratory Research Centre.",
+    url: "<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fvibrantlifemedia%2Fvideos%2F2235149686672326%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>",
   },
   {
-    title: "My Resume Site",
+    title: "Wedding reception short teaser",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Small playful highlight of the dance floor at a wedding reception.",
+    url: "https://www.facebook.com/1040865767/videos/740992227468922/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Placeholder",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "imagine that there is some lorum ipsum text here",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
